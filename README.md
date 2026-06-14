@@ -20,9 +20,18 @@ KMeans Clustering
 ## Cluster Interpretation
 
 Cluster 0:
-Young high spenders.
+Young customers with high spending scores and moderate income.
 
 Cluster 1:
-Older low spenders.
+Older customers with high income but low spending behavior.
+
+Cluster 2:
+Middle-aged customers with average income and spending patterns.
+
+Cluster 3:
+High-income and high-spending premium customers.
+
+Cluster 4:
+Budget-conscious customers with lower income levels.
 
 ...
